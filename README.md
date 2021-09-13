@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/yj666/images/blob/master/top.gif" width="80" height="80" /> Hey! Nice to see you. </h1>   
+<h1><img src="https://github.com/yj666/images/blob/master/top.gif" width="80" /> Hey! Nice to see you. </h1>   
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yj666&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yj666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  

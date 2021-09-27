@@ -10,3 +10,7 @@
 ![Koa.js](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
 ![miniprogram](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)  
 ![](https://visitor-badge.glitch.me/badge?page_id=yj666)  
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/lxxyx/count.svg" />
+</p>
